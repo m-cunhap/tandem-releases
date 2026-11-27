@@ -1,6 +1,6 @@
 # Tandem Releases (Official Binary Mirror)
 
-> **Latest Alpha:** **v0.1.0-alpha.13** · Auto-updates delivered via `https://tandem-updates.marsoncunha.workers.dev/alpha/`
+> **Latest Alpha:** **v0.1.0-alpha.14** · Auto-updates delivered via `https://tandem-updates.marsoncunha.workers.dev/alpha/`
 
 This public repository hosts compiled, Castlabs EVS VMP-signed Windows installers (`.exe`), `.blockmap` files, and `latest.yml` manifests for **Tandem** (source code lives in the private `m-cunhap/tandem` repository).
 
@@ -8,6 +8,7 @@ This public repository hosts compiled, Castlabs EVS VMP-signed Windows installer
 
 | Version | Date (UTC) | Highlights | Links |
 | :--- | :--- | :--- | :--- |
+| **v0.1.0-alpha.14** | 2026-11-27 | Revamped Searchable Help Center: New 5-tab, live-searchable Help & Feature Guide covering Quick Start & Sync, Media/Gaming/TV Mode, Deskt... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.14/Tandem-Setup-0.1.0-alpha.14.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.14) |
 | **v0.1.0-alpha.13** | 2026-11-27 | Fix Netflix -> Reddit & Wikipedia sync: primary probe of Netflix playerApp.videoMetadataByVideoId for exact show/season/episode/episode-t... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.13/Tandem-Setup-0.1.0-alpha.13.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.13) |
 | **v0.1.0-alpha.12** | 2026-11-27 | Settings -> Updates Tab: Ping the Cloudflare OTA feed on demand with a 1-click Check for Updates button, view live download progress with... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.12/Tandem-Setup-0.1.0-alpha.12.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.12) |
 | **v0.1.0-alpha.11** | 2026-11-27 | Fix Wikipedia episode & movie syncing: parses MediaWiki wikitext ShortSummary/Plot/Cultural references (eliminating actor & citation nois... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.11/Tandem-Setup-0.1.0-alpha.11.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.11) |
