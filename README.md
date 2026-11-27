@@ -1,6 +1,6 @@
 # Tandem Releases (Official Binary Mirror)
 
-> **Latest Alpha:** **v0.1.0-alpha.16** · Auto-updates delivered via `https://tandem-updates.marsoncunha.workers.dev/alpha/`
+> **Latest Alpha:** **v0.1.0-alpha.17** · Auto-updates delivered via `https://tandem-updates.marsoncunha.workers.dev/alpha/`
 
 This public repository hosts compiled, Castlabs EVS VMP-signed Windows installers (`.exe`), `.blockmap` files, and `latest.yml` manifests for **Tandem** (source code lives in the private `m-cunhap/tandem` repository).
 
@@ -8,6 +8,7 @@ This public repository hosts compiled, Castlabs EVS VMP-signed Windows installer
 
 | Version | Date (UTC) | Highlights | Links |
 | :--- | :--- | :--- | :--- |
+| **v0.1.0-alpha.17** | 2026-11-27 | ## Reorganized Add Pane + 4-Tier Privacy Ladder (Private, Stealth, Ghost) - 3-Tab Add Pane Modal: Reorganized into Web Platforms (auto-fo... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.17/Tandem-Setup-0.1.0-alpha.17.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.17) |
 | **v0.1.0-alpha.16** | 2026-11-27 | Living Media Companion Phases 1-3: Categorized Topic Chips + stacked Companion Fact Feed with Wikipedia REST summaries & thumbnails (cust... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.16/Tandem-Setup-0.1.0-alpha.16.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.16) |
 | **v0.1.0-alpha.15** | 2026-11-27 | ## Desktop App Discovery, All Apps Catalog & 1-Click Update Ping - Fixed Minimized & UWP Window Discovery: App Master and Desktop App (.e... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.15/Tandem-Setup-0.1.0-alpha.15.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.15) |
 | **v0.1.0-alpha.14** | 2026-11-27 | Revamped Searchable Help Center: New 5-tab, live-searchable Help & Feature Guide covering Quick Start & Sync, Media/Gaming/TV Mode, Deskt... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.14/Tandem-Setup-0.1.0-alpha.14.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.14) |
