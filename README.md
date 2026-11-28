@@ -1,6 +1,6 @@
 # Tandem Releases (Official Binary Mirror)
 
-> **Latest Alpha:** **v0.1.0-alpha.19** · Auto-updates delivered via `https://tandem-updates.marsoncunha.workers.dev/alpha/`
+> **Latest Alpha:** **v0.1.0-alpha.20** · Auto-updates delivered via `https://tandem-updates.marsoncunha.workers.dev/alpha/`
 
 This public repository hosts compiled, Castlabs EVS VMP-signed Windows installers (`.exe`), `.blockmap` files, and `latest.yml` manifests for **Tandem** (source code lives in the private `m-cunhap/tandem` repository).
 
@@ -8,6 +8,7 @@ This public repository hosts compiled, Castlabs EVS VMP-signed Windows installer
 
 | Version | Date (UTC) | Highlights | Links |
 | :--- | :--- | :--- | :--- |
+| **v0.1.0-alpha.20** | 2026-11-28 | ## Built-In Managed Tor (1-Click Ghost) & Privacy Audit Fixes - Built-In Managed Tor Engine (ADR 007): Ghost (L3) workspaces now default ... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.20/Tandem-Setup-0.1.0-alpha.20.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.20) |
 | **v0.1.0-alpha.19** | 2026-11-28 | Built-In Managed Tor Engine for Ghost (L3) workspaces, Ghost Kill Switch & Tor Bootstrap recovery overlay, Stealth/Ghost child popup anti... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.19/Tandem-Setup-0.1.0-alpha.19.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.19) |
 | **v0.1.0-alpha.18** | 2026-11-28 | Fix Windows Alt+Tab interference (auto-demote docked HWND_TOPMOST windows on blur & disable hidden Alt menu bar across all windows) and m... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.18/Tandem-Setup-0.1.0-alpha.18.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.18) |
 | **v0.1.0-alpha.17** | 2026-11-27 | ## Reorganized Add Pane + 4-Tier Privacy Ladder (Private, Stealth, Ghost) - 3-Tab Add Pane Modal: Reorganized into Web Platforms (auto-fo... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.17/Tandem-Setup-0.1.0-alpha.17.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.17) |
