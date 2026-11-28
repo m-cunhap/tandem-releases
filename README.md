@@ -1,6 +1,6 @@
 # Tandem Releases (Official Binary Mirror)
 
-> **Latest Alpha:** **v0.1.0-alpha.21** · Auto-updates delivered via `https://tandem-updates.marsoncunha.workers.dev/alpha/`
+> **Latest Alpha:** **v0.1.0-alpha.22** · Auto-updates delivered via `https://tandem-updates.marsoncunha.workers.dev/alpha/`
 
 This public repository hosts compiled, Castlabs EVS VMP-signed Windows installers (`.exe`), `.blockmap` files, and `latest.yml` manifests for **Tandem** (source code lives in the private `m-cunhap/tandem` repository).
 
@@ -8,6 +8,7 @@ This public repository hosts compiled, Castlabs EVS VMP-signed Windows installer
 
 | Version | Date (UTC) | Highlights | Links |
 | :--- | :--- | :--- | :--- |
+| **v0.1.0-alpha.22** | 2026-11-28 | ## Ghost Mode Sync, DuckDuckGo Adapter & Anti-Bot Header Fixes - Fixed Ghost Master / Follower Sync: Added ghostSessionReady to PaneCard'... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.22/Tandem-Setup-0.1.0-alpha.22.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.22) |
 | **v0.1.0-alpha.21** | 2026-11-28 | Fix Spotify as Master (live Now Playing bar & mediaSession probe, playing document.title parsing, instant Master promotion sync & cleanup... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.21/Tandem-Setup-0.1.0-alpha.21.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.21) |
 | **v0.1.0-alpha.20** | 2026-11-28 | ## Built-In Managed Tor (1-Click Ghost) & Privacy Audit Fixes - Built-In Managed Tor Engine (ADR 007): Ghost (L3) workspaces now default ... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.20/Tandem-Setup-0.1.0-alpha.20.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.20) |
 | **v0.1.0-alpha.19** | 2026-11-28 | Built-In Managed Tor Engine for Ghost (L3) workspaces, Ghost Kill Switch & Tor Bootstrap recovery overlay, Stealth/Ghost child popup anti... | [Installer (.exe)](https://github.com/m-cunhap/tandem-releases/releases/download/v0.1.0-alpha.19/Tandem-Setup-0.1.0-alpha.19.exe) · [Notes](https://github.com/m-cunhap/tandem-releases/releases/tag/v0.1.0-alpha.19) |
